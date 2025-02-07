@@ -585,8 +585,6 @@
 //     return 0;
 // }
 
-//problem12
-
 //problem13
 // #include<iostream>;
 // using namespace std;
